@@ -1,0 +1,5 @@
+# Ignorar el entorno virtual
+ml_env/
+
+# Ignorar el dataset
+FICO_Dataset.csv
